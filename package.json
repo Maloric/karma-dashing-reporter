@@ -1,0 +1,11 @@
+{
+  "name": "karma-dashing-reporter",
+  "version": "0.1.0",
+  "description": "Simple reporter to push test results to a custom Dashing widget",
+  "main": "index.js",
+  "author": "Jamie Morris",
+  "license": "GNU",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
